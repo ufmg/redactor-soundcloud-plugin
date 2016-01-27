@@ -1,0 +1,16 @@
+{ "name": "redactor-soundcloud-plugin",                                                                
+  "version": "1.0.0",                                                                           
+  "description": "Embed your soundcloud trak into redactor",                             
+  "main": "redactor-soundcloud.js",                                                                       
+  "keywords": [                                                                                 
+     "redactor",                                                                           
+     "soundcloud",                                                                                  
+     "redactor-soundcloud-plugin"                                                                                                                                                      
+    ],                                                                                                                                                                                      
+  "repository": {                                                                               
+    "type": "git",                                                                              
+   "	url": "https://github.com/ufmg/redactor-soundcloud-plugin"                                  
+   },                                                                                            
+  "author": "Diel Duarte",                                                                      
+  "license": "MIT"                                                                              
+}      

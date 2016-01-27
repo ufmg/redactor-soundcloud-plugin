@@ -1,0 +1,15 @@
+{
+  "name": "redactor-soundcloud-plugin",
+  "homepage": "https://github.com/ufmg/redactor-soundcloud-plugin",
+  "authors": [
+    "dielduarte <magdiel.kesller@gmail.com>"
+  ],
+  "description": "Embed your soundcloud track into redactor",
+  "main": "redactor-soundcloud.js",
+  "keywords": [
+     "redactor",                                                                           
+     "soundcloud",                                                                                  
+     "redactor-soundcloud-plugin"  
+  ],
+  "license": "MIT"
+}
