@@ -1,5 +1,5 @@
 { "name": "redactor-soundcloud-plugin",                                                                
-  "version": "0.0.1",                                                                           
+  "version": "1.0.0",                                                                           
   "description": "Embed your soundcloud trak into redactor",                             
   "main": "redactor-soundcloud.js",                                                                       
   "keywords": [                                                                                 
