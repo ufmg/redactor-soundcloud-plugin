@@ -15,9 +15,21 @@ using __npm__:
 ```
 
 ###Usage
-import redactor-soundcloud.js
+#####import redactor-soundcloud.js
 
-insert plugin in redactor config, example:
+if you installed with __bower__:
+
+```
+<script src="bower-components/redactor-soundcloud-plugin/redactor-soundcloud.js"></script>
+```
+
+if you installed with  __npm__:
+
+```
+<script src="node_modules/redactor-soundcloud-plugin/redactor-soundcloud.js"></script>
+```
+
+#####insert plugin in redactor config, example:
 
 ```
 $('#redactor').redactor({
@@ -25,6 +37,10 @@ $('#redactor').redactor({
 });
 
 ```
+
+#####READY! see example:
+
+![gif](example.gif)
 
 Thanks [@lucasMezencio](https://github.com/lucasmezencio) for your review
 
