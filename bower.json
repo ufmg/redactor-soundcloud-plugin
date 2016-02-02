@@ -7,9 +7,9 @@
   "description": "Embed your soundcloud track into redactor",
   "main": "redactor-soundcloud.js",
   "keywords": [
-     "redactor",                                                                           
-     "soundcloud",                                                                                  
-     "redactor-soundcloud-plugin"  
+     "redactor",
+     "soundcloud",
+     "redactor-soundcloud-plugin"
   ],
   "license": "MIT"
 }
