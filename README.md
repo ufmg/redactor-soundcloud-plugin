@@ -44,4 +44,4 @@ $('#redactor').redactor({
 
 Thanks [@lucasMezencio](https://github.com/lucasmezencio) for your review
 
-Made with 3> by [@dielduarte](https:/github.com/dielduarte)
+Made with <3 by [@dielduarte](https:/github.com/dielduarte)
